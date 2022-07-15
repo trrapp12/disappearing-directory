@@ -1,0 +1,85 @@
+:root {
+  --main-teal : #007A91;
+  --main-pink : #FDB4A5;
+  --main-brown: #403631;
+  --main-light-brown: #BFBFBD;
+  --main-light-gray: #dcdcdc;
+}
+
+* {
+  padding: 0px; 
+  margin: 0px; 
+  box-sizing: border-box;
+}
+
+.box {
+	padding: .25rem;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: center;
+}
+
+.container {
+  background-color: var(--main-pink);
+  background-image: url(https://user-images.githubusercontent.com/11747875/179149675-cda1329c-e8fb-4cb6-a843-c7f0f43757ef.jpeg);
+  background-size: cover; 
+}
+
+.label {
+	font-family: 'Yomogi', cursive;
+	font-size: 2rem;
+  font-weight: 100;
+	color: var(--main-pink);
+	margin: 0px auto 1rem auto;
+}
+
+.main {
+  background-color: var(--main-teal);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 3rem;
+}
+
+.name {
+	border-radius: 10px;
+	border: 2px solid var(--main-teal);
+	padding: 1.25rem;
+	min-width: 30vw;
+	background-color: var(--main-light-gray);
+	color: var(--main-teal);
+	font-size: 2rem;
+	font-family: 'Yomogi', cursive;
+}
+
+.results {
+  padding: 3rem; 
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 2rem;
+  font-family: 'Yomogi', cursive;
+  color: var(--main-pink);
+}
+
+input[type="text"] {
+	width: 30vw;
+	margin: auto;
+	font-family: 'Yomogi', cursive;
+	color: #403631;
+	/* min-height: 2rem; */
+	font-size: 2rem;
+	color: var(--main-brown);
+	padding: .5rem;
+}
+
+.p-attributions {
+  color: white; 
+  font-family: 'Yomogi', cursive;
+  font-size: .75rem;
+}

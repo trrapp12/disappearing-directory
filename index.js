@@ -18,8 +18,7 @@
 
     );
 }
-
-  
+ 
   // add event listener
   window.addEventListener('keyup', (event) => {
     let currentInput = event.target.value; 

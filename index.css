@@ -1,6 +1,6 @@
 :root {
   --main-teal : #007A91;
-  --main-pink : #FDB4A5;
+  --main-pink : #FF7268;
   --main-brown: #403631;
   --main-light-brown: #BFBFBD;
   --main-light-gray: #dcdcdc;
@@ -13,17 +13,17 @@
 }
 
 .box {
-	padding: .25rem;
-	display: flex;
-	flex-direction: row;
-	flex-wrap: nowrap;
-	justify-content: center;
+  padding: .25rem;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
 }
 
 .container {
   background-color: var(--main-pink);
-  background-image: url(https://user-images.githubusercontent.com/11747875/179149675-cda1329c-e8fb-4cb6-a843-c7f0f43757ef.jpeg);
-  background-size: cover; 
+  background-image: url(https://user-images.githubusercontent.com/11747875/179345335-8856e91d-ac9a-4f99-9ebf-77bd67b58739.jpeg);
+  background-size: contain;
 }
 
 .label {
@@ -43,14 +43,14 @@
 }
 
 .name {
-	border-radius: 10px;
-	border: 2px solid var(--main-teal);
-	padding: 1.25rem;
-	min-width: 43vw;
-	background-color: var(--main-light-gray);
-	color: var(--main-teal);
-	font-size: 2rem;
-	font-family: 'Yomogi', cursive;
+  border-radius: 10px;
+  border: 2px solid var(--main-teal);
+  padding: 1.25rem;
+  min-width: 29vw;
+  background-color: var(--main-light-gray);
+  color: var(--main-teal);
+  font-size: 2rem;
+  font-family: 'Yomogi', cursive;
 }
 
 .results {
@@ -71,14 +71,13 @@
 }
 
 input[type="text"] {
-	width: 30vw;
-	margin: auto;
-	font-family: 'Yomogi', cursive;
-	color: #403631;
-	/* min-height: 2rem; */
-	font-size: 2rem;
-	color: var(--main-brown);
-	padding: .5rem;
+  width: 60vw;
+  margin: auto;
+  font-family: 'Yomogi', cursive;
+  color: #403631;
+  font-size: 2rem;
+  color: var(--main-brown);
+  padding: .5rem;
 }
 
 .p-attributions {

@@ -8,8 +8,8 @@
     
     Object.entries(input1).forEach(([key, value]) => {
       console.log(`input.innertext equals ${value.innerText}`)
-      if (value.innerText.includes(input2)) {
-        key.style.backgroundColor = 'red';
+      if (value.innerText.toLowerCase().includes(input2.toLowerCase())) {
+        value.style.backgroundColor = 'red';
       }
       else {
         console.log('wrong one');

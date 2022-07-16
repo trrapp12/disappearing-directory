@@ -5,14 +5,19 @@
   // create functions
 
   function compareNames (input1, input2) {
-    input1.map(() => {
-      if (input1.includes(input2.innerText)) {
-        console.log(input2.innerText)
-      } else {
-        console.log("not there")
+    
+    Object.entries(input1).forEach(([key, value]) => {
+      console.log(`input.innertext equals ${value.innerText}`)
+      if (value.innerText.includes(input2)) {
+        key.style.backgroundColor = 'red';
       }
-    })
-  }
+      else {
+        console.log('wrong one');
+      }
+    }
+
+    );
+}
 
   
   // add event listener

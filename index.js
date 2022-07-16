@@ -9,10 +9,10 @@
     Object.entries(input1).forEach(([key, value]) => {
       console.log(`input.innertext equals ${value.innerText}`)
       if (value.innerText.toLowerCase().includes(input2.toLowerCase())) {
-        value.style.backgroundColor = 'red';
+        value.style.display = 'block';
       }
       else {
-        console.log('wrong one');
+        value.style.display = 'none'
       }
     }
 

@@ -54,10 +54,11 @@
 }
 
 .results {
-  padding: 3rem; 
+  padding: 3rem;
   display: flex;
   flex-direction: column;
   flex-wrap: nowrap;
+  min-height: 100vh;
 }
 
 .title {

@@ -1,4 +1,4 @@
-# disappearing-directory
+# Stoic Search Directory
 
 
 ##### Contributors: Trevor Rapp
@@ -10,7 +10,7 @@ https://user-images.githubusercontent.com/11747875/179346114-9049742d-f13f-49ab-
 
 <br>
 
-[![View Project](https://user-images.githubusercontent.com/11747875/141705232-471a0b9c-ca45-4540-a1b6-740c5e1becbe.png)](https://trrapp12.github.io/password-maker/)
+[![View Project](https://user-images.githubusercontent.com/11747875/141705232-471a0b9c-ca45-4540-a1b6-740c5e1becbe.png)](https://trrapp12.github.io/disappearing-directory/)
 
 <br>
 
@@ -33,24 +33,24 @@ https://user-images.githubusercontent.com/11747875/179346114-9049742d-f13f-49ab-
 
 ---
 
-A password generator that can generate multiple, randomized alpha-numeric/special character passwords.  Also includes a one-click copy/paste option.
+Another quick project to practice JavaScript.  An example of a input that you can "search" by adding logic to key-up event listeners.
+
 <br/>
 <br/>
 
 ### Project v1.0 demonstrates the following:
 ---
 
-- [X] <em>User Story 1: </em> User should be able to get a password with alphanumeric characters and special characters.
-- [X] <em>User Story 2: </em> User should be able to click a button to create the password.
-- [X] <em>User Story 3: </em> User should be able to generate multiple passwords
-- [X] <em>User Story 4: </em> User should be able to see passwords displayed
-- [X] <em>User Story 4: </em> User should be able to pick the length of the password
-- [X] <em>User Story 4: </em> User should be able to have a 1-click copy/paste option for password
+- [X] <em>User Story 1: </em> User should be able to input search terms into the input.
+- [X] <em>User Story 2: </em> User should be able to see a list of possible Stoic Philosophers.
+- [X] <em>User Story 3: </em> User should be able to see non-applicable results get filtered out while typing.
+- [X] <em>User Story 4: </em> User should be able to utilize this on desktop and mobile.
+
 
 ### Project published at: 
 ---
 
-[Password Maker](https://trrapp12.github.io/password-maker/)
+[Stoic Search Directory](https://trrapp12.github.io/disappearing-directory/)
 
 ### More Information:
 ---

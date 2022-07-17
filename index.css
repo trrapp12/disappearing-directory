@@ -86,9 +86,12 @@ input[type="text"] {
   font-size: .75rem;
 }
 
-@media screen and (max-width: 760px) {
+
+@media screen and (max-width:1200px) {
   .name {
-    font-size: 1rem;
-    padding: 1rem;
-  }
+    font-size: .75rem;
+    min-width: 46vw;
+    padding: .75rem;
 }
+}​
+

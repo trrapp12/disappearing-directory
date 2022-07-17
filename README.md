@@ -33,7 +33,9 @@ https://user-images.githubusercontent.com/11747875/179346114-9049742d-f13f-49ab-
 
 ---
 
-Another quick project to practice JavaScript.  An example of a input that you can "search" by adding logic to key-up event listeners.
+A nod to Ryan Holiday's "The Obstacle is the Way" and all Stoic philosophers.  Also a JavaScript for practice.  
+
+Demonstrates a search bar that uses key-up event listeners and logic comparisons to decide which entries to show or hide based on user input.
 
 <br/>
 <br/>

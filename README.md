@@ -58,10 +58,10 @@ To use the app simply click on the ```View Project``` button or visit <a href="h
 ### THIS PROJECT DEMONSTRATES:
 
 
-- [X] <em>User Story 1: </em> User should be able to input search terms into the input.
-- [X] <em>User Story 2: </em> User should be able to see a list of possible Stoic Philosophers.
-- [X] <em>User Story 3: </em> User should be able to see non-applicable results get filtered out while typing.
-- [X] <em>User Story 4: </em> User should be able to utilize this on desktop and mobile.
+- [X] input search terms into the input.
+- [X] see a list of possible Stoic Philosophers.
+- [X] non-applicable results get filtered out while typing.
+- [X] available in desktop and mobile.
 
 ---
 
@@ -73,11 +73,11 @@ To use the app simply click on the ```View Project``` button or visit <a href="h
 
 ### ATTRIBUTIONS
 
-
+Though this was a tutorial project, unfortunately I don't remember where I found it, nor was I able to find it after considerable searching.
 
 ---
 
 ### YOU CAN FIND ME AT:
 
-\**For more information see my [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037), or return to my [Github](https://github.com/trrapp12)*
+*For more information see my [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037), or return to my [Github](https://github.com/trrapp12)*
 

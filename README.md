@@ -3,16 +3,17 @@
 
 ##### Contributors: Trevor Rapp
 
-*this was created from an on-line tutorial.  Unfortunately 
+*this was created from an on-line tutorial.  Unfortunately I do not remember who created the original tutorial, nor was I able to find it again after extensive searching*
 
 ---
-<br>
-
-https://user-images.githubusercontent.com/11747875/179346114-9049742d-f13f-49ab-a5a1-07a1158b7674.mp4
 
 <br>
 
 [![View Project](https://user-images.githubusercontent.com/11747875/141705232-471a0b9c-ca45-4540-a1b6-740c5e1becbe.png)](https://trrapp12.github.io/disappearing-directory/)
+
+<br>
+
+https://user-images.githubusercontent.com/11747875/179346114-9049742d-f13f-49ab-a5a1-07a1158b7674.mp4
 
 <br>
 
@@ -36,9 +37,9 @@ https://user-images.githubusercontent.com/11747875/179346114-9049742d-f13f-49ab-
 >
 >– Marcus Aurelius
 
-This project is a nod to Ryan Holiday's "The Obstacle is the Way" and all Stoic philosophers.  Also a chance to practice JavaScript.  
+*This project is a nod to Ryan Holiday's "The Obstacle is the Way" and all Stoic philosophers.  Also a chance to practice JavaScript.*
 
-Demonstrates a search bar that uses key-up event listeners and logic comparisons to decide which entries to show or hide based on user input.
+*Demonstrates a search bar that uses key-up event listeners and logic comparisons to decide which entries to show or hide based on user input.*
 
 <br/>
 <br/>
@@ -69,13 +70,13 @@ To use the app simply click on the ```View Project``` button or visit <a href="h
 
 ### MY OWN PERSONAL CONTRIBUTIONS INCLUDED 
 
-- [X] design of the project
+- [X] front-end design of the page
 
 ---
 
 ### ATTRIBUTIONS
 
-Though this was a tutorial project, unfortunately I don't remember where I found it, nor was I able to find it after considerable searching.
+* Though this was a tutorial project, unfortunately I don't remember where I found it, nor was I able to find it after considerable searching.
 
 ---
 
